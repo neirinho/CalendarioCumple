@@ -1,0 +1,1 @@
+Se implemento un sistema de persistencia de datos mediante Room y SQLite. Para poder guardar y consultar información en una base de datos local para que la aplicación pueda almacenar y recuperar datos de manera persistente.
