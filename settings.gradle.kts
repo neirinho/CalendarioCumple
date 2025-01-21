@@ -19,5 +19,9 @@ dependencyResolutionManagement {
     }
 }
 
+<<<<<<< HEAD
 rootProject.name = "calendarioCumple"
+=======
+rootProject.name = "CumpleApp"
+>>>>>>> f02633c (tarea 3)
 include(":app")

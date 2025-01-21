@@ -1,3 +1,7 @@
 <resources>
+<<<<<<< HEAD
     <string name="app_name">calendarioCumple</string>
+=======
+    <string name="app_name">CumpleApp</string>
+>>>>>>> f02633c (tarea 3)
 </resources>

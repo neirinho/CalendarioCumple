@@ -5,11 +5,19 @@ plugins {
 }
 
 android {
+<<<<<<< HEAD
     namespace = "com.IagoSalgueiroAlbores.calendariocumple"
     compileSdk = 35
 
     defaultConfig {
         applicationId = "com.IagoSalgueiroAlbores.calendariocumple"
+=======
+    namespace = "com.iagosalgueiroalbores.cumpleapp"
+    compileSdk = 35
+
+    defaultConfig {
+        applicationId = "com.iagosalgueiroalbores.cumpleapp"
+>>>>>>> f02633c (tarea 3)
         minSdk = 26
         targetSdk = 35
         versionCode = 1
@@ -49,6 +57,11 @@ dependencies {
     implementation(libs.androidx.ui.graphics)
     implementation(libs.androidx.ui.tooling.preview)
     implementation(libs.androidx.material3)
+<<<<<<< HEAD
+=======
+    implementation(libs.androidx.appcompat)
+    implementation(libs.androidx.recyclerview)
+>>>>>>> f02633c (tarea 3)
     testImplementation(libs.junit)
     androidTestImplementation(libs.androidx.junit)
     androidTestImplementation(libs.androidx.espresso.core)

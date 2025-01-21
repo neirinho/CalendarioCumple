@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
+<<<<<<< HEAD
     <style name="Theme.CalendarioCumple" parent="android:Theme.Material.Light.NoActionBar" />
+=======
+    <style name="Theme.CumpleApp" parent="android:Theme.Material.Light.NoActionBar" />
+>>>>>>> f02633c (tarea 3)
 </resources>
